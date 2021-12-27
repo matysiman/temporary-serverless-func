@@ -18,7 +18,7 @@ const fetchData = async () => {
         />
         <div class="info">
           <h5>${name}</h5>
-          <h5 class="price">$${price} pr</h5>
+          <h5 class="price">$${price} prs</h5>
         </div>
       </article>`
     
